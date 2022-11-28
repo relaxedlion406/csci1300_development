@@ -1,0 +1,116 @@
+
+[
+  {
+    "id" : 1,
+   "name": "Harry Potter",
+   "gender": "Male",
+   "house": "Gryffindor",
+   "image": "images/Harry_Potter.jpg",
+   "skills": "Specialist",
+   "price": 731
+  },
+  { 
+    "id" : 2,
+    "name": "Ginny Weasley",
+    "gender": "Female",
+    "house": "Gryffindor",
+    "image": "images/Ginny_Weasley.jpg",
+    "skills": "Fighter",
+    "price": 811
+  },
+  {
+    "id" : 3,
+    "name": "Draco Malfoy",
+    "gender": "Male",
+    "house": "Slytherin",
+    "image": "images/Draco_Malfoy.webp",
+    "skills": "Mage",
+    "price": 705
+  },
+  {
+    "id" : 4,
+    "name": "Luna Lovegood",
+    "gender": "Female",
+    "house": "Ravenclaw",
+    "image": "images/Luna_Lovegood.jpeg",
+    "skills": "Controller",
+    "price": 213
+
+  }, 
+  {
+    "id" : 5,
+    "name": "Cedric Diggory",
+    "gender": "Male",
+    "house": "Hufflepuff",
+    "image": "images/Cedric_diggory.webp",
+    "skills": "Specialist",
+    "price": 910
+  },
+  {
+    "id" : 6,
+    "name": "Hermione Granger",
+    "gender": "Female",
+    "house": "Gryffindor",
+    "image": "images/Hermione_Granger.jpeg",
+    "skills": "Controller",
+    "price": 9.19
+  },
+  {
+    "id" : 7,
+    "name": "Ron Weasley",
+    "gender": "Male",
+    "house": "Gryffindor",
+    "image": "images/Ron_Weasley.jpeg",
+    "skills": "Marksman",
+    "price": 310
+  },
+  {
+    "id" : 8,
+    "name": "Cho Chang",
+    "gender": "Female",
+    "house": "Ravenclaw",
+    "image": "images/Cho_Chang.jpeg",
+    "skills": "Fighter",
+    "price": 97
+  },
+  {
+    "id" : 9,
+    "name": "Nymphadora Tonks",
+    "gender": "Female",
+    "house": "Hufflepuff",
+    "image": "images/Nymphadora_Tonks.jpeg",
+    "skills": "Controller",
+    "price": 34.25
+  },
+  {
+    "id" : 10,
+    "name": "Bellatrix Lestrange",
+    "gender": "Female",
+    "house": "Slytherin",
+    "image": "images/Bellatrix_Lestrange.jpeg",
+    "skills": "Slayer",
+    "price": 57.03
+  },
+  {
+    "id" : 11,
+    "name": "Neville Longbottom",
+    "gender": "Male",
+    "house": "Gryffindor",
+    "image": "images/Neville_Longbottom.jpeg",
+    "skills": "Mage",
+    "price": 22.23
+  },
+  {
+    "id" : 12,
+    "name": "Filius Flitwick",
+    "gender": "Male",
+    "house": "Ravenclaw",
+    "image": "images/Filius_Flitwick.jpeg",
+    "skills": "Mage",
+    "price": 24.5
+  }
+
+
+
+
+]
