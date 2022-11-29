@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/csci1300_development/static/css/main.d7bf919b.css",
-    "main.js": "/csci1300_development/static/js/main.8283d9d5.js",
+    "main.js": "/csci1300_development/static/js/main.7122a898.js",
     "static/media/backgroud.jpg": "/csci1300_development/static/media/backgroud.2918a525fae5cdf688cd.jpg",
     "index.html": "/csci1300_development/index.html",
     "main.d7bf919b.css.map": "/csci1300_development/static/css/main.d7bf919b.css.map",
-    "main.8283d9d5.js.map": "/csci1300_development/static/js/main.8283d9d5.js.map"
+    "main.7122a898.js.map": "/csci1300_development/static/js/main.7122a898.js.map"
   },
   "entrypoints": [
     "static/css/main.d7bf919b.css",
-    "static/js/main.8283d9d5.js"
+    "static/js/main.7122a898.js"
   ]
 }
