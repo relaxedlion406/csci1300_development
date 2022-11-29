@@ -56,7 +56,8 @@ function App() {
   return (
     <div className="App row">
       <div className= "title"/>
-      <h1>Select 5 Cards</h1>
+      <h1>Please select 5 Cards. </h1>
+        <h2>You have 100,000 Galleons.</h2>
       <aside className = "column left">
         <div className="wizard-card">
           <Sort 
